@@ -34,10 +34,3 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 + We will use their default UnrealEngine **.gitignore**
 + We’ll then “clone” this repository to our machine
 + How to use a **readme.md** with markdown*
-
-### 4 Creating & Deleting Landscapes ###
-
-+ Creating an Unreal project in an existing “repo”
-+ What’s good about Landscapes in Unreal Engine
-+ How to add a Landscape in Unreal
-+ How to delete a Landscape in Unreal.
