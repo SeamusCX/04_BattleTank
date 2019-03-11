@@ -18,3 +18,11 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 ### 1b Battle Tank Overview ###
 
 * An overview of the finished Battle Tank project.
+
+### 2 S04 Game Design Document (GDD) ###
+
++ The Concept, Rules and (initial) requirements
++ We’ll iterate around a loop while making this game
++ Constantly asking “what’s least fun”
++ Remember we’re not AAA studios
++ Let’s find the essence of fun of this game.
