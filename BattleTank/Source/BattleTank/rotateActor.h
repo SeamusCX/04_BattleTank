@@ -5,8 +5,9 @@
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "rotateActor.generated.h"
-DECLARE_LOG_CATEGORY_EXTERN(LogMyGame, Log, All);
-DEFINE_LOG_CATEGORY(LogMyGame);
+
+DECLARE_LOG_CATEGORY_EXTERN(rotateActor, Log, All)
+
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class BATTLETANK_API UrotateActor : public UActorComponent
